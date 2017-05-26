@@ -24,9 +24,11 @@ public:
     void gotMessage(ofMessage msg);
     
     
-    //modCam cam;
     ofEasyCam cam;
+    //modCam cam;
     ofxAssimpModelLoader stylizedModel1, stylizedModel2, stylizedModel3, stylizedModel4;
     ofPlanePrimitive ground;
+    ofMesh pin;
+    
     
 };

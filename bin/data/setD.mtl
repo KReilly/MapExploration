@@ -1,0 +1,328 @@
+newmtl Light_initialShadingGroup_groundSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-ground.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface108SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface108.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface109SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface109.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface110SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface110.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface111SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface111.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface112SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface112.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface113SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface113.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface114SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface114.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface115SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface115.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface116.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface117SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface117.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface118SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface118.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface119SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface119.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface120SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface120.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface121SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface121.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface122SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface122.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface123SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface123.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface124SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface124.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface125SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface125.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface126SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface126.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface127SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface127.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface128SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface128.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface129SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface129.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface130.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface131.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface139SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface139.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface140SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface140.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface141SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface141.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface142SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface142.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface143SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface143.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface144SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface144.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface145SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface145.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface146SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface146.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface147SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface147.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface148SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface148.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface149SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface149.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface150SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface150.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface151SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface151.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface152SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface152.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface154SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface154.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface155SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface155.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface156SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface156.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface157SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface157.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface158SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface158.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface159SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface159.tif
+Ni 1.00
+newmtl Light_initialShadingGroup_polySurface160SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Light-initialShadingGroup-polySurface160.tif
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.98 0.98 0.98
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

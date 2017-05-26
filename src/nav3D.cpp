@@ -2,7 +2,21 @@
 
 //--------------------------------------------------------------
 void nav3D::setup(){
-    ofSetVerticalSync(true);
+    ofEnableDepthTest();
+    
+    cam.setDistance(90);
+    cam.setNearClip(0.5);
+    
+    ofSetCircleResolution(64);
+    cam.move(0, cam.getDistance(), 0);
+    cam.setTarget(ofVec3f(0,0,0));
+    
+    glColorMaterial (GL_FRONT, GL_DIFFUSE);
+    glEnable (GL_COLOR_MATERIAL);
+    glEnable(GL_CULL_FACE);
+    glCullFace(GL_BACK);
+    
+    
     
     stylizedModel1.loadModel("setD.obj");
     stylizedModel2.loadModel("setC.obj");
@@ -53,57 +67,14 @@ void nav3D::draw(){
     
 }
 
-//--------------------------------------------------------------
-void nav3D::keyPressed(int key){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::keyReleased(int key){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::mouseMoved(int x, int y ){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::mouseDragged(int x, int y, int button){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::mousePressed(int x, int y, int button){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::mouseReleased(int x, int y, int button){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::mouseEntered(int x, int y){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::mouseExited(int x, int y){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::windowResized(int w, int h){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::gotMessage(ofMessage msg){
-    
-}
-
-//--------------------------------------------------------------
-void nav3D::dragEvent(ofDragInfo dragInfo){
-    
-}
+void nav3D::keyPressed(int key){ }
+void nav3D::keyReleased(int key){ }
+void nav3D::mouseMoved(int x, int y ){ }
+void nav3D::mouseDragged(int x, int y, int button){ }
+void nav3D::mousePressed(int x, int y, int button){ }
+void nav3D::mouseReleased(int x, int y, int button){ }
+void nav3D::mouseEntered(int x, int y){ }
+void nav3D::mouseExited(int x, int y){ }
+void nav3D::windowResized(int w, int h){ }
+void nav3D::gotMessage(ofMessage msg){ }
+void nav3D::dragEvent(ofDragInfo dragInfo){ }
