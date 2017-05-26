@@ -2,7 +2,23 @@
 
 //--------------------------------------------------------------
 void nav3D::setup(){
+    ofSetVerticalSync(true);
     
+    stylizedModel1.loadModel("setD.obj");
+    stylizedModel2.loadModel("setC.obj");
+    stylizedModel3.loadModel("setB.obj");
+    stylizedModel4.loadModel("setA.obj");
+    
+    stylizedModel1.setScale(-1, -1, 1);
+    stylizedModel2.setScale(-1, -1, 1);
+    stylizedModel3.setScale(-1, -1, 1);
+    stylizedModel4.setScale(-1, -1, 1);
+    
+    ground.set(500, 500);
+    ground.setPosition(0, 0, 0);
+    ground.setResolution(10, 10);
+
+
 }
 
 //--------------------------------------------------------------
@@ -12,6 +28,28 @@ void nav3D::update(){
 
 //--------------------------------------------------------------
 void nav3D::draw(){
+    
+    cam.begin();
+    
+    ofBackground(222, 224, 217);
+    
+    stylizedModel1.enableColors();
+    stylizedModel2.enableColors();
+    stylizedModel3.enableColors();
+    stylizedModel4.enableColors();
+    
+    ofPushMatrix();
+    ofRotateY(90);
+    ofSetColor(250, 250, 250, 255);
+    ofScale(0.75, 0.75, 0.75);
+    
+    stylizedModel1.drawFaces();
+    stylizedModel2.drawFaces();
+    stylizedModel3.drawFaces();
+    stylizedModel4.drawFaces();
+    ofPopMatrix();
+    
+    cam.end();
     
 }
 
