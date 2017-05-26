@@ -1,10 +1,9 @@
 #include "nav3D.h"
 
-//--------------------------------------------------------------
 void nav3D::setup(){
     ofEnableDepthTest();
     
-    cam.setDistance(90);
+    cam.setDistance(60);
     cam.setNearClip(0.5);
     
     ofSetCircleResolution(64);
@@ -15,8 +14,6 @@ void nav3D::setup(){
     glEnable (GL_COLOR_MATERIAL);
     glEnable(GL_CULL_FACE);
     glCullFace(GL_BACK);
-    
-    
     
     stylizedModel1.loadModel("setD.obj");
     stylizedModel2.loadModel("setC.obj");
@@ -31,18 +28,12 @@ void nav3D::setup(){
     ground.set(500, 500);
     ground.setPosition(0, 0, 0);
     ground.setResolution(10, 10);
-
-
 }
 
-//--------------------------------------------------------------
 void nav3D::update(){
-    
 }
 
-//--------------------------------------------------------------
 void nav3D::draw(){
-    
     cam.begin();
     
     ofBackground(222, 224, 217);
@@ -64,10 +55,20 @@ void nav3D::draw(){
     ofPopMatrix();
     
     cam.end();
-    
 }
 
-void nav3D::keyPressed(int key){ }
+void nav3D::keyPressed(int key){
+    switch(key) {
+        case 'C':
+        case 'c':
+            if(cam.getMouseInputEnabled())
+                    cam.disableMouseInput();
+            else
+                    cam.enableMouseInput();
+            break;
+    }
+}
+
 void nav3D::keyReleased(int key){ }
 void nav3D::mouseMoved(int x, int y ){ }
 void nav3D::mouseDragged(int x, int y, int button){ }
